@@ -1,4 +1,15 @@
 :root {
+  /* FUDA Pro Color Palette */
+  --cream-50: #faf8f3;
+  --cream-100: #f5f1e8;
+  --cream-700: #8b7355;
+  --text-primary: #2c2c2c;
+  --text-secondary: #666666;
+  --border-color: #e0ddd8;
+  --accent-green: #2ecc71;
+  --accent-red: #e74c3c;
+
+  /* Legacy variables */
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;

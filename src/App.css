@@ -52,6 +52,11 @@
   border-radius: 4px;
   font-size: 14px;
   background-color: white;
+  color: var(--text-primary);
+}
+
+.auth-container input::placeholder {
+  color: var(--text-secondary);
 }
 
 .auth-container button {
